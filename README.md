@@ -83,7 +83,14 @@ bash train_policy_twohanded.sh
 
 ## Results
 
-<video src='output_videos_new/two_handed_policy_5x.mp4' width=180/> | <video src='output_videos_new/one_handed_policy_5x.mp4' width=180/>
+For evaluation we chose a one-handed and a two-handed task on the ALOHA robot arms. Qualitative results can be found in the form of two videos here.
+
+# Two-Handed Task
+https://github.com/user-attachments/assets/049fe1d4-d6e1-4e44-8767-32176a322a8c
+
+# One-Handed Task
+https://github.com/user-attachments/assets/e364b3eb-5346-4637-9dad-471b5a6b2ccd
+
 
 ## Citation
 
